@@ -1,5 +1,11 @@
 #Layout With HTML and CSS
 
+##Quick Warmup
+- Let's use Codepen.io to practice CSS selectors.
+- Create at least one div with an id, and four divs with a class.
+- Use CSS to apply styling to the divs based on the id and class selectors.
+- Bonus: Try implementing one or more styles using a CSS3 selector (first-child, nth-child, first-of-type, etc).
+
 ##Floats
 - Floating elements allows us to create a nearly unlimited number of layouts using all types of block elements.
 - Floating an element essentially removes it from the standard "flow" and places it to the left or right side of its container.
@@ -51,3 +57,11 @@
 4. The Absolute
 
 ![The Absolute](img/the_absolute.png)
+
+##Homework
+- For homework you will be creating the fashion blog part 2 using your knowledge of layouts.
+- The mockup of what you will be creating can be found [here](img/fashion_blog_2.png).
+- Bonus: Implement your own grid system to use in layout.
+- Extra Reading: Have a look through the documentation for popular frontend frameworks such as Twitter Bootstrap or Zurb Foundation. Pay attention to how they implement the grid system.
+	- [Twitter Bootstrap](http://getbootstrap.com/)
+	- [Zurb Foundation](http://foundation.zurb.com/)
