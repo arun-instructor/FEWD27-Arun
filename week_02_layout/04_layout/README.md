@@ -13,6 +13,11 @@
 - You can also used percentage width, which will have the columns respond to the screen size.
 - You can tell already that the calculations can get out of hand really fast...
 
+##Element Alignment
+- To determine how we can align an element we have to first know what kind of element it is.
+- Inline elements can be aligned as text, so with the `text-align` CSS property.
+- Block elements can be aligned using the space around them - margin. A margin set to auto for both left and right will center the element in a container.
+
 ##The Grid Layout
 - Most modern layouts operate on a standard 12-column grid system.
 - If you break down any of the websites you know and love you will notice many variations on the 12 column grid.
