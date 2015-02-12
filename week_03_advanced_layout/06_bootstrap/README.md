@@ -48,6 +48,58 @@
 - The breakpoints you can select in your columns control at which point this happens.
 - Check out their documentation [here](http://getbootstrap.com/css/#grid) to see what these breakpoints are in terms of size.
 
+##CSS3 Media Queries
+- Media queries allow you to apply and remove CSS styling based on the screen dimensions.
+- This is important to create truly mobile-friendly layouts.
+- To use it you have to specify screen resolution thresholds.
+- Let's try an example where we want to show a div where the screen size is larger than 700 pixels:
+
+HTML
+
+```
+<div id="my-div"></div>
+```
+
+CSS
+
+```
+@media(min-width: 700px) {
+	#my-div {
+		width:400px;
+		height:400px;
+		border:#000 1px solid;
+	}
+}
+```
+
+- Now where the screen size is below 700 pixels:
+
+CSS
+
+```
+@media(max-width: 700px) {
+	#my-div {
+		width:400px;
+		height:400px;
+		border:#000 1px solid;
+	}
+}
+```
+
+- You can also combine these values to select a range:
+
+```
+@media(min-width: 700px) and (max-width: 900px) {
+	#my-div {
+		width:400px;
+		height:400px;
+		border:#000 1px solid;
+	}
+}
+```
+
+- Good news! Bootstrap does this for you!
+
 ##Code-Along
 - Let's see the grid system in action.
 - We will be coding the Bootstrap grid example:
@@ -65,3 +117,9 @@
 - Let's take a look at some of the bootstrap examples located [here](http://getbootstrap.com/getting-started/#examples).
 - We will code together the "Jumbotron Narrow" template located [here](http://getbootstrap.com/examples/jumbotron-narrow/).
 - Before we start, let's also plan out our grid system.
+
+##In-Class / Homework
+- For homework we will be coding from scratch [this Bootstrap template](http://getbootstrap.com/examples/offcanvas/).
+- Try not to look at the code through the code inspector! X-(
+- Try to first plan out the grid you will use, then figure out which components you will need.
+	- Hint: There is a jumbotron in there ;) You're welcome.
