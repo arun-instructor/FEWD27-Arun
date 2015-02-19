@@ -128,6 +128,7 @@ for (var i = 0; i < 20; i++) {
 - Write a for loop that will iterate from 0 to 20. 
 - For each iteration, it will check if the current number is even or odd, and report that to the screen (e.g. "2 is even").
 - Do this using a `FOR` and a `WHILE` loop.
+- You will have to look up the syntax for the while loop, and also the modulus (%) operator.
 
 ##In-Class Lab / Homework: Part 2
 - Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
