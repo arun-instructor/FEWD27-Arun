@@ -127,7 +127,7 @@ for (var i = 0; i < 20; i++) {
 ##In-Class Lab / Homework: Part 1 
 - Write a for loop that will iterate from 0 to 20. 
 - For each iteration, it will check if the current number is even or odd, and report that to the screen (e.g. "2 is even").
-- Do this using a `FOR` and a `WHILE` loop.
+- Do this using a `FOR` loop and then try to replicate the same functionality with a `WHILE` loop.
 - You will have to look up the syntax for the while loop, and also the modulus (%) operator.
 
 ##In-Class Lab / Homework: Part 2
