@@ -132,3 +132,9 @@ for (var i = 0; i < 20; i++) {
 ##In-Class Lab / Homework: Part 2
 - Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
 - Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them. Check out the [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) module built in to JavaScript to help you.
+
+##In-Class Lab / Homework: Part 3
+- We will be practicing the concepts learned today by developing the game of Tic Tac Toe.
+- You can find the files [here](https://github.com/arsood/TicTacToe).
+- Open up js/beginner.js and follow the instructions to complete the game.
+- **Bonus:** Complete the intermediate portion located at js/intermediate.js.
