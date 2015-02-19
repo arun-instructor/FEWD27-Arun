@@ -122,7 +122,7 @@ for (var i = 0; i < 20; i++) {
 - Create a prompt that asks the user what their best marathon time was.
 - If their time was between 4 to 5 hours, alert the user that their time was average.
 - if the time was between 2 to 4 hours, alert the user that their time was excellent.
-- If the time was greater than 4 hours, alert the user that they need to speed up!
+- If the time was greater than 5 hours, alert the user that they need to speed up!
 
 ##In-Class Lab / Homework: Part 1 
 - Write a for loop that will iterate from 0 to 20. 
