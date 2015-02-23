@@ -11,3 +11,7 @@
 ##Week 4: Introduction to Programming
 
 ###Day 2: [Introduction to JavaScript](week_04_intro_javascript/07_js_basics/)
+
+##Week 5: JavaScript Continued
+
+###Day 1: [JavaScript Continued](week_05_js/08_dom_manipulation/)
