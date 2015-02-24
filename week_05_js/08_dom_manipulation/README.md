@@ -264,7 +264,7 @@ for (var i = 0; i < myElements.length; i++) {
 document.getElementById("my-div").innerHTML = "<span>New HTML here</span>";
 ```
 
-##Score Keeper Lab
+##Score Keeper Lab / Homework
 - We will be creating a simple score keeper application using JavaScript.
 - The HTML and CSS has already been done for you [here](score_keeper_html/).
 - Here are the steps you should take:
@@ -273,8 +273,3 @@ document.getElementById("my-div").innerHTML = "<span>New HTML here</span>";
 	- Step 3: Bind a click event to the set score button and set the innerHTML of the score display to the score entered in the text box.
 	- **Bonus:** Create a check in your code to make sure the score will not go negative.
 	- **Super Bonus:** Create a function to make the changes to the score display rather than having to write your logic over and over.
-
-##Homework / In-Class Lab
-- We will create a temperature converter that takes in a certain temperature in Fahrenheit and displays it in Celsius.
-- You will be in charge of creating the HTML and CSS yourself, so be creative!
-- You will need to employ event handling, DOM manipulation, and optionally functions if you want to DRY up your code.
