@@ -17,3 +17,7 @@
 ###Day 1: [JavaScript Continued](week_05_js/08_dom_manipulation/)
 
 ###Day 2: [Introduction to jQuery](week_05_js/09_jquery_intro/)
+
+##Week 6: Review
+
+###Day 1: [jQuery Review](week_06_review/10_jquery_review)
