@@ -21,3 +21,5 @@
 ##Week 6: Review
 
 ###Day 1: [jQuery Review](week_06_review/10_jquery_review)
+
+###Day 2: [Bootstrap + jQuery](week_06_review/11_jquery_bootstrap/)
