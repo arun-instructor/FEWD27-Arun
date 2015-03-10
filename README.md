@@ -23,3 +23,7 @@
 ###Day 1: [jQuery Review](week_06_review/10_jquery_review)
 
 ###Day 2: [Bootstrap + jQuery](week_06_review/11_jquery_bootstrap/)
+
+##Week 7: Advanced CSS
+
+###Day 1: [CSS Trickshots Part 1](week_07_advanced_css/12_css_trickshots_1/)
