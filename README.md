@@ -27,3 +27,5 @@
 ##Week 7: Advanced CSS
 
 ###Day 1: [CSS Trickshots Part 1](week_07_advanced_css/12_css_trickshots_1/)
+
+###Day 2: [CSS Trickshots Part 2](week_07_advanced_css/13_css_trickshots_2/)
