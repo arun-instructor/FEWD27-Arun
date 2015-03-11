@@ -68,6 +68,10 @@ div {
 - Try out some of the keyframes along with a transform function.
 - One idea may be to rotate a div during a keyframe animation.
 - Observe what happens as the div is transformed. Is this what you expected? Why or why not?
+- **Bonus:** Now take things a step further and integrate keyframes with JavaScript.
+	- Bind a click event to a button that adds a class to the div.
+	- Your class should play a keyframe animation of its own.
+	- Use at least one transform function in your keyframe.
 
 ##Media Query Refresher
 - Let's review what a media query is and how we use it.
@@ -82,6 +86,7 @@ div {
 - Media queries play a huge part in making websites ready for mobile.
 - As a front end developer you will likely run into many situations where you have to take existing content and transform it into a mobile-ready layout.
 - In this exercise we will take a navigation menu already created for you [here](header_redesign/) and redesign it for mobile devices.
+- Start by adding your own CSS file so that you can clearly see what code you wrote.
 - For this exercise you will want to use either custom media queries or Bootstrap's visibility classes.
 - Use your creativity to come up with something enticing.
 - **Bonus:** Use jQuery to create the sliding functionality of the standard Bootstrap navbar for your redesigned version.
