@@ -82,7 +82,7 @@ div {
 - If you are comfortable using the Bootstrap pre-defined media query breakpoints then you're in luck. Bootstrap gives us a [few helper classes](http://getbootstrap.com/css/#responsive-utilities-classes) to toggle visibility.
 - Let's set up a new Bootstrap project to test out these visibility classes with a single div.
 
-##In-Class Lab: Redesign the Header
+##In-Class Lab / Homework: Redesign the Header
 - Media queries play a huge part in making websites ready for mobile.
 - As a front end developer you will likely run into many situations where you have to take existing content and transform it into a mobile-ready layout.
 - In this exercise we will take a navigation menu already created for you [here](header_redesign/) and redesign it for mobile devices.
@@ -91,3 +91,12 @@ div {
 - Use your creativity to come up with something enticing.
 - **Bonus:** Use jQuery to create the sliding functionality of the standard Bootstrap navbar for your redesigned version.
 - **Super Bonus:** If you're really pushing ahead, try implementing Animate.css for some cool effects.
+
+##Further Reading / Next Time:
+- We will be going over building forms in next class.
+- Have a look over the weekend at these tags specifically:
+	- `<input>`
+	- `<select>`
+	- `<textarea>`
+- Have a look at [jQuery AJAX](http://api.jquery.com/jquery.ajax/) since we will be using it to submit the form contents.
+- Check out the `.val()` jQuery function to grab form data.
