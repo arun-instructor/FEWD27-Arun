@@ -29,3 +29,7 @@
 ###Day 1: [CSS Trickshots Part 1](week_07_advanced_css/12_css_trickshots_1/)
 
 ###Day 2: [CSS Trickshots Part 2](week_07_advanced_css/13_css_trickshots_2/)
+
+##Week 8: Forms and AJAX
+
+###Day 1: [Building Forms and Validation](week_08_forms_and_ajax/14_forms/)
