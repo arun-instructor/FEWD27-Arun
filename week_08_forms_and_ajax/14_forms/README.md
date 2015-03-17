@@ -162,6 +162,11 @@ for (field in formInfo) {
 - Your job is to add validation for each field in your form, remaining aware of the type of data that needs to be entered.
 - Add a password and password confirmation field anywhere in your form. Use Parsley's `Equalto` method to check that they are the same.
 
+##Homework: Project Planning
+- For the project that is due the last day of class you will be building a website with the technologies we have used so far.
+- Think about a website you would like to build that incorporates HTML, CSS and JavaScript/jQuery that can be done in about a week.
+- Submit your proposal via Schoology and we will review it one-on-one in class next time.
+
 ##Reading for Next Class
 - Next class we will be going through [jQuery AJAX](http://api.jquery.com/jquery.ajax/).
 - Look through the documentation and try some of the examples before class.
