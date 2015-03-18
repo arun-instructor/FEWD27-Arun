@@ -33,3 +33,5 @@
 ##Week 8: Forms and AJAX
 
 ###Day 1: [Building Forms and Validation](week_08_forms_and_ajax/14_forms/)
+
+###Day 2: [Introduction to AJAX](week_08_forms_and_ajax/15_ajax/)
