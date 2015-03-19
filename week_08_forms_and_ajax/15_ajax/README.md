@@ -66,25 +66,9 @@ var userInfo = {
 - After this let's create a simple form to input new user information.
 - We will save the `DELETE` request for next class.
 
-##In-Class Lab: Wine Manager
+##In-Class Lab / Homework
 - For this exercise we will be using the API located here: `http://daretodiscover.herokuapp.com/wines`.
 - This API follows the same exact RESTful convention that the users API follows. Therfore you should automatically know each route to use.
 - Here are the steps you will need to follow:
 	- Step 1: Create a form that has inputs for each piece of data. Hint: You will need to look at the JSON you get back. What are the keys?
-	- Step 2: Validate the form with Parsley.js to make sure each field was entered appropriately.
-	- Step 3: Create two buttons - one that will perform a `console.log` of each wine from the server, and another that will perform the AJAX `POST` request to add the new wine.
-
-##In-Class Lab / Homework
-- For this activity we will be building a simple form to update a specific wine.
-- Here are the steps you will need to follow:
-	- Step 1: Create a HTML form that is identical to the one for adding a new wine.
-	- Step 2: Make a `GET` request to the URL for grabbing a member wine.
-	- Step 3: Insert the data from the request into the "value" attributes of the form fields.
-	- Step 4: Validate the form with Parsley.
-	- Step 5: Perform a `PUT` request to the wine member URL with the form data.
-- Be aware that since this API is live and we're a big class, you will likely all be overwriting each other's requests. If your stuff doesn't show up, try another wine to update.
-
-##Reading for Next Class:
-- Next class we will be covering JavaScript templating.
-- Take a look at the [documentation for Handlebars.js](http://handlebarsjs.com/) and see if you can figure out how to use it.
-- Also it would be a good idea to play around in the console with more JSON objects, as this will be a common theme.
+	- Step 2: Create two buttons - one that will perform a `console.log` of each wine from the server, and another that will perform the AJAX `POST` request to add the new wine.
