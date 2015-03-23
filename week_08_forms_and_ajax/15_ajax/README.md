@@ -72,3 +72,8 @@ var userInfo = {
 - Here are the steps you will need to follow:
 	- Step 1: Create a form that has inputs for each piece of data. Hint: You will need to look at the JSON you get back. What are the keys?
 	- Step 2: Create two buttons - one that will perform a `console.log` of each wine from the server, and another that will perform the AJAX `POST` request to add the new wine.
+
+##Reading for Next Class:
+- Next class we will be covering JavaScript templating.
+- Take a look at the [documentation for Handlebars.js](http://handlebarsjs.com/) and see if you can figure out how to use it.
+- Also it would be a good idea to play around in the console with more JSON objects, as this will be a common theme.

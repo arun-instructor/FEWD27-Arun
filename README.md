@@ -35,3 +35,7 @@
 ###Day 1: [Building Forms and Validation](week_08_forms_and_ajax/14_forms/)
 
 ###Day 2: [Introduction to AJAX](week_08_forms_and_ajax/15_ajax/)
+
+##Week 9: APIs and Templating
+
+###Day 1: [Templating](week_09_apis_and_templating/16_templating/)
