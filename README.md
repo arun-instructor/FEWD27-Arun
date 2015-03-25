@@ -38,4 +38,7 @@
 
 ##Week 9: APIs and Templating
 
-###Day 1: [Templating](week_09_apis_and_templating/16_templating/)
+###Day 1: [Templating]
+(week_09_apis_and_templating/16_templating/)
+
+###Day 2: [Templating Continued](week_09_apis_and_templating/17_templating_continued/)
