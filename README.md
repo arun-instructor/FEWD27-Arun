@@ -41,3 +41,7 @@
 ###Day 1: [Templating](week_09_apis_and_templating/16_templating/)
 
 ###Day 2: [Templating Continued](week_09_apis_and_templating/17_templating_continued/)
+
+##Week 10: Student Choice
+
+###Day 1: [SASS](week_10_student_choice/18_sass/)
