@@ -1,0 +1,109 @@
+.margin-top-20 {
+  margin-top: 20px; }
+
+.clear {
+  clear: both; }
+
+body {
+  color: #555555;
+  font-size: 14px; }
+
+h1 {
+  display: inline;
+  font-size: 74px; }
+
+h2 {
+  display: inline;
+  color: #999;
+  font-size: 24px; }
+
+h3 {
+  color: #000;
+  font-size: 1.4em; }
+
+nav {
+  float: right;
+  margin-top: 30px; }
+  nav li {
+    display: inline; }
+  nav a {
+    padding: 20px 40px;
+    background-color: #06C;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    transition: all 0.3s ease-in-out; }
+    nav a:hover {
+      background-color: #cc6600;
+      transition: all 0.3s linear; }
+
+article {
+  margin-top: 30px; }
+  article p {
+    font-size: 1.3em; }
+  article p:last-child {
+    padding-bottom: 40px;
+    border-bottom: #999 1px solid; }
+
+section {
+  float: left;
+  width: 600px; }
+  section article div a {
+    color: #06C;
+    font-size: 2em;
+    text-decoration: none; }
+    section article div a:hover {
+      text-decoration: underline; }
+
+aside {
+  width: 350px;
+  float: right; }
+
+.container {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.side-menu a {
+  color: #0066cc;
+  text-decoration: none;
+  font-size: 1.4em; }
+  .side-menu a:hover {
+    text-decoration: underline; }
+.side-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+.side-menu li {
+  margin-top: 10px; }
+
+.modbox {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-color: #DDD;
+  margin-top: 30px;
+  padding: 5px; }
+  .modbox p {
+    font-size: 1.3em; }
+
+footer {
+  margin-top: 20px;
+  font-size: 1.4em; }
+  footer .copyright {
+    float: left;
+    width: 400px;
+    padding-top: 20px; }
+  footer .links {
+    float: right;
+    width: 500px;
+    text-align: right; }
+    footer .links li {
+      display: inline; }
+    footer .links a {
+      padding: 20px;
+      text-decoration: none; }
+      footer .links a:hover {
+        text-decoration: underline; }
